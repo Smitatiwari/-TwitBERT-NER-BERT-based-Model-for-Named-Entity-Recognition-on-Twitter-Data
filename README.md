@@ -1,0 +1,2 @@
+# -TwitBERT-NER-BERT-based-Model-for-Named-Entity-Recognition-on-Twitter-Data
+TwitBERT-NER is a deep learning project focused on identifying and classifying named entities (e.g., persons, organizations, locations, products) within tweets using transformer-based models. It leverages the power of BERT and BERTweet to overcome the noise, abbreviations, and informal syntax typical of social media content.
